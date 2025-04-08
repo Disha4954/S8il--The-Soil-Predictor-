@@ -53,5 +53,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 Your Name - [@Disha vekaria](www.linkedin.com/in/disha-vekaria-027b0a302)
-Team members -  [@Darshit Pagdar](), [@Utsav Savani](https://www.linkedin.com/in/savani-utsav-912a47358?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+Team members -  [@Darshit Pagdar](https://www.linkedin.com/in/darshit-paghdar), [@Utsav Savani](https://www.linkedin.com/in/savani-utsav-912a47358?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 Project Link: [Link](https://github.com/Disha4954/S8il--The-Soil-Predictor-.git)
